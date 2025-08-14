@@ -1,4 +1,4 @@
-package project1;
+package project1.gallows;
 
 public class Validator {
     public static boolean isValid(String str) {

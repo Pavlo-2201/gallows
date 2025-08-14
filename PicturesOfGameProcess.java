@@ -1,4 +1,4 @@
-package project1;
+package project1.gallows;
 
 public class PicturesOfGameProcess {
     private static final String[] pictures = {
